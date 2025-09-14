@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-int a, b = 5;
+int a, b = 8;
 
 int main(){
     bool my_flag;
